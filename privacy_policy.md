@@ -1,8 +1,8 @@
 # Privacy Policy for SiteStack Chrome Extension
 
-**Effective Date:** [Insert Date - e.g., July 26, 2024]
+**Effective Date:** [04/16/2025]
 
-Thank you for using SiteStack (the "Extension"), developed by [Your Name/Company Name]. This Privacy Policy explains how the Extension handles information.
+Thank you for using SiteStack (the "Extension"), developed by [Ashish Gupta]. This Privacy Policy explains how the Extension handles information.
 
 ## 1. Information Handling
 
@@ -49,7 +49,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 
 ## 9. Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at: [Your Email Address or Contact Link]
+If you have any questions about this Privacy Policy, please contact us at: [ashish.gupta102120@gmail.com]
 
 ---
 
